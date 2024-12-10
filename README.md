@@ -15,4 +15,6 @@ This project creates a blog page using data fetched from the JSONPlaceholder API
 - JavaScript
 - Fetch API
 
-## Getting Started
+### Project Preview
+
+https://ebrahim43.github.io/Blog-Using-JSONPlaceholder-API/
