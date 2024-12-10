@@ -16,13 +16,3 @@ This project creates a blog page using data fetched from the JSONPlaceholder API
 - Fetch API
 
 ## Getting Started
-
-### Prerequisites
-
-You need a web browser and an internet connection to view the blog.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
