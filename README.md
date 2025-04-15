@@ -37,7 +37,6 @@ This is a simple web application that fetches data from the [JSONPlaceholder API
 4. These cards are appended dynamically to the blog container in the DOM.
 
 ## 📸 Demo
- 
-[https://ebrahim43.github.io/Blog-Viewer/](https://ebrahim43.github.io/Blog-Using-JSONPlaceholder-API/)
+ https://ebrahim43.github.io/Blog-Using-JSONPlaceholder-API/
 
 
